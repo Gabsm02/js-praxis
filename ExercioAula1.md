@@ -37,6 +37,9 @@
 
 ### Exercicio 8 
 
+// Escreva um programa que receba uma operação matemática e dois operandos:
+
+
 // "soma": Adicionar os dois operandos.
 // "subtração": Subtrair o segundo operando do primeiro.
 // "multiplicação": Multiplicar os dois operandos.
