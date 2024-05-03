@@ -24,3 +24,20 @@
 
 // Tiver 18 anos ou mais, ou
 // Tiver 16 ou 17 anos e possuir um ingresso do tipo "Meia".
+
+### Exercicio 7
+
+// Escreva um programa que receba um número inteiro representando a operação a ser realizada:
+
+// 1: Adicionar um elemento no final do array.
+// 2: Remover o último elemento do array.
+// 3: Remover o primeiro elemento do array.
+// 4: Exibir todos os elementos do array.
+// 0: Sair do programa.
+
+### Exercicio 8 
+
+// "soma": Adicionar os dois operandos.
+// "subtração": Subtrair o segundo operando do primeiro.
+// "multiplicação": Multiplicar os dois operandos.
+// "divisão": Dividir o primeiro operando pelo segundo.
